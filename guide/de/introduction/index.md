@@ -5,13 +5,13 @@ lang: de
 title: Einleitung
 ---
 
-Wissen Sie genau wieviel von Ihrem Steuergeld für Straßenbeleuchtung oder Krebsforschung ausgegeben wird? Was ist die kürzeste, sicherste und malischste Fahrradroute von Deinem zu Hause zu Deiner Arbeit. Und was ist in der Luft, die Sie auf dem Weg einatmen? Wo in Ihrer Region werden Sie die besten Beschäftigungsmöglichkeiten und die höchste Anzahl von Obstbäumen pro Kopf finden. Wann können Sie Entscheidungen zu Themen, die Sie innerlich bewegen, beeinflussen und mit wem sollten Sie dazu sprechen?
+Wissen Sie genau wieviel von Ihrem Steuergeld für Straßenbeleuchtung oder Krebsforschung ausgegeben wird? Was ist die kürzeste, sicherste und malerischste Fahrradroute von Ihrem zu Hause zu Ihrer Arbeit. Und was ist in der Luft, die Sie auf dem Weg einatmen? Wo in Ihrer Region werden Sie die besten Beschäftigungsmöglichkeiten und die höchste Anzahl von Obstbäumen pro Kopf finden. Wann können Sie Entscheidungen zu Themen, die Sie innerlich bewegen, beeinflussen und mit wem sollten Sie darüber sprechen?
 
 Neue Technologien ermöglichen es Dienstleistungen anzubieten, die diese Fragen automatisiert beantworten. Viele dieser Daten werden bereits von öffentlichen Institutionen erhoben. Oftmals werden diese Daten aber vor der Öffentlichkeit verborgen, obwohl es eigentlich keine guten Gründe dafür gibt, diese geheim zu halten.
 
-Die Forderung nach [Open Data]()<!--(/glossary/de/terms/open-data/)-->, insbesondere [Open Government data]()<!--(/glossary/de/terms/open-government-data/)-->, also Informationen, öffentlich oder nicht, die für jeden Menschen kostenfrei und wiedernutzbar verfügbar ist, wird bereits seit einigen Jahren erhoben. Seit 2009 haben mehrere Regierungen den Schritt hin zu offene Daten gewagt (unter anderem die USA, Großbritannien, Kanada und Neuseeland).
+Die Forderung nach [Open Data]()<!--(/glossary/de/terms/open-data/)-->, insbesondere [Open Government data]()<!--(/glossary/de/terms/open-government-data/)-->, also Informationen, öffentlich oder nicht, die für jeden Menschen kostenfrei und wiedernutzbar verfügbar sind, wird bereits seit einigen Jahren erhoben. Seit 2009 haben mehrere Regierungen den Schritt hin zu offene Daten gewagt (unter anderem die USA, Großbritannien, Kanada und Neuseeland).
 
-Dieses Buch führt in die grundlegenden Konzepte rund um 'Open Data' ein, insbesondere in Bezug auf offene Regierungs- bzw. Verwaltungsdaten. Es wird verdeutlicht wie offene Daten zur Wertschöpfung beitragen und in vielen Bereichen eine positive Wirkung entfalten können. Neben diesen Hintergrundinformationen gibt es auch konkrete Anleitungen zum 'Öffnen' von Daten.
+Dieses Buch führt in die grundlegenden Konzepte rund um 'Open Data' ein, insbesondere in Bezug auf offene Regierungs- bzw. Verwaltungsdaten. Es wird verdeutlicht, wie offene Daten zur Wertschöpfung beitragen und in vielen Bereichen eine positive Wirkung entfalten können. Neben diesen Hintergrundinformationen gibt es auch konkrete Anleitungen zum 'Öffnen' von Daten.
 
 ## Anvisierte Zielgruppe
 
